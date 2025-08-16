@@ -73,6 +73,7 @@ You can directly run the notebook in Colab:
  
 
 ⸻
+https://github.com/Dhwaj13/Solar-panel-fault-detection/blob/c1fee01f38c71149df1df7565c76433a7600e949/DATABASE.png
 
 📊 Results
 
