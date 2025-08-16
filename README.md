@@ -25,14 +25,23 @@ The entire project was developed in Google Colab and trained using image dataset
 
 📂 Project Structure
 📦 Solar-Fault-Detection
+
  ┣ 📜 solar fault detection.ipynb   # Main Colab Notebook
+ 
  ┣ 📜 README.md                     # Project documentation
+ 
  ┣ 📂 images/                       # Screenshots & results
+ 
  ┃ ┣ DATABASE.png
+
  ┃ ┣ RESULT.png
+ 
  ┃ ┣ TRUE VS PREDICTED.png
+ 
  ┃ ┣ VARIATION GRAPHS.png
+ 
  ┗ 📂 fault solar.zip               # Dataset (optional, or add dataset link)
+ 
 ▶️ Run in Google Colab
 
 You can directly run the notebook in Colab:
