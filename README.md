@@ -73,15 +73,15 @@ You can directly run the notebook in Colab:
  
 
 ⸻
-https://github.com/Dhwaj13/Solar-panel-fault-detection/blob/c1fee01f38c71149df1df7565c76433a7600e949/DATABASE.png
 
-📊 Results
+🖼️ Screenshots
 
-	•	Achieved ~95% training accuracy and ~83% validation accuracy
- 
-	•	Model successfully detects multiple fault types in solar panels
- 
-	•	Visual comparisons of predicted vs actual labels
- 
+DATABASE: ( https://github.com/Dhwaj13/Solar-panel-fault-detection/blob/c1fee01f38c71149df1df7565c76433a7600e949/DATABASE.png )
 
-⸻
+RESULT: ( https://github.com/Dhwaj13/Solar-panel-fault-detection/blob/19042cbf1a3a86583d1ed4bef1de27ce08e619b7/RESULT.png )
+
+TRUE VS PREDICTED ( https://github.com/Dhwaj13/Solar-panel-fault-detection/blob/19042cbf1a3a86583d1ed4bef1de27ce08e619b7/TRUE%20VS%20PREDICTED%20.png )
+
+VARITAION GRAPH ( https://github.com/Dhwaj13/Solar-panel-fault-detection/blob/19042cbf1a3a86583d1ed4bef1de27ce08e619b7/VARIATION%20GRAPHS.png )
+
+
